@@ -2,72 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7c93eb-ce27-47d9-a8cb-1aa50d41217b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JLC.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Hello1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Hello2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab10.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab11.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab12.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab13n14.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab15.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab16.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab17.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab18.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab21.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab36.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab39.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab42.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab53.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab59.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab6.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab65.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab7.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab70.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab8.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab81.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab84.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Lab9.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JLC/com/bijo/learning/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab11.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab12.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab13n14.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab15.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab16.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab17.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab18.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab21.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab36.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab39.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab42.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab53.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab59.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab6.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab65.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab7.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab70.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab8.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab81.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab84.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Lab9.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/Main.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -330,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528705931432</updated>
-      <workItem from="1528705935125" duration="28273000" />
+      <workItem from="1528705935125" duration="28365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28273000" />
+    <option name="totallyTimeSpent" value="28365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="0" />
