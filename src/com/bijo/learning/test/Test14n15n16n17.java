@@ -32,10 +32,10 @@ public class Test14n15n16n17 {
             num=num/10;
         }
 
-        System.out.println("Total number of Even digts : "+edigit);
-        System.out.println("Sum of Even digts : "+esum);
-        System.out.println("Total number of Odd digts : "+odigit);
-        System.out.println("Sum of of Odd digts : "+osum);
-        System.out.println("Sum of digts : "+sum);
+        System.out.println("Total number of Even digits : "+edigit);
+        System.out.println("Sum of Even digits : "+esum);
+        System.out.println("Total number of Odd digits : "+odigit);
+        System.out.println("Sum of of Odd digits : "+osum);
+        System.out.println("Sum of digits : "+sum);
     }
 }

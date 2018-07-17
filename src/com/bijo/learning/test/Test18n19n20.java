@@ -2,7 +2,7 @@ package com.bijo.learning.test;
 
 import java.util.Scanner;
 
-//sum of square of individual digits of given number, cubes,
+//sum of square of individual digits of given number, cubes, factorial
 public class Test18n19n20 {
     public static void main(String as[]){
         Scanner sc = new Scanner(System.in);

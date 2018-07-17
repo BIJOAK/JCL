@@ -1,7 +1,7 @@
 package com.bijo.learning.test;
 
 import java.util.Scanner;
-//quotient witout using / operator
+//quotient without using / operator
 public class Test4 {
     public static void  main(String as[]){
         Scanner sc= new Scanner(System.in);
@@ -15,6 +15,6 @@ public class Test4 {
             a-=b;
             quotient++;
         }
-     System.out.println("Quotiant is :" +quotient);
+     System.out.println("Quotient is :" +quotient);
     }
 }

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Test2 {
     public static void main(String as[]){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enetr a and b values:");
+        System.out.println("Enter a and b values:");
 
         int a = sc.nextInt();
         int b = sc.nextInt();
