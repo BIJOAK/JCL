@@ -18,7 +18,7 @@ public class Test38 {
         }
         char result =  0x0C;
         int result1= 0x0C;
-        System.out.println("result = " + result);
+        System.out.println("result = " + String.valueOf(result));
         System.out.println("result1 = " + result1);
     }
 
