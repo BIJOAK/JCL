@@ -2,19 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7c93eb-ce27-47d9-a8cb-1aa50d41217b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab491.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab492.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab493.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab494.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab495.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab496.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab497.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab498.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab499.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab500.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab501.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab502.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab503.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab514.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab515.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab516.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab517.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab518.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab519.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab520.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab521.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab522.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab523.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab524.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab525.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab526.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab527.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab504.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab505.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab506.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab507.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab528.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab529.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab530.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab531.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab532.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab533.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab534.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab535.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab536.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab508.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab509.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab510.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab511.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab512.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab513.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,21 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Lab502.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab502.java">
+      <file leaf-file-name="Lab536.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab536.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lab503.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab503.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -57,6 +67,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>127</find>
+      <find>170</find>
+      <find>cache</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -68,39 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/memorymanagement/Lab454.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/garbageclollection/Lab455.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/garbageclollection/Lab456.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab457.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab458.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab459.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab460.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab461.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab462.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab463.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab464.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab465.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab466.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab467.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab468.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/test/Test38.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab469.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab470.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab471.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab471n472.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab473.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab474.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab475.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab476.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab477.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab478.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab479.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab480.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab481.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab482.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab483.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab484.java" />
-        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab485.java" />
         <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab486.java" />
         <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab487.java" />
         <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab488.java" />
@@ -119,6 +103,39 @@
         <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab501.java" />
         <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab502.java" />
         <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab503.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab504.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab505.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab506.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab507.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab508.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab509.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab510.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab511.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab512.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab513.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab514.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab515.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab516.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab517.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab518.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab519.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab520.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab521.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab522.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab523.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab524.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab525.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab526.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab527.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab528.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab529.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab530.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab531.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab532.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab533.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab534.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab535.java" />
+        <option value="$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab536.java" />
       </list>
     </option>
   </component>
@@ -149,6 +166,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,21 +187,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JLC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JLC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learning" type="462c0819:PsiDirectoryNode" />
-              <item name="stringclass" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,15 +223,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lab503">
-    <configuration name="Lab499" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Lab536">
+    <configuration name="Lab532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.bijo.learning.stringclass.*" />
+          <option name="PATTERN" value="com.bijo.learning.systemclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.stringclass.Lab499" />
+      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.systemclass.Lab532" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -233,14 +243,14 @@
       <module name="JLC" />
       <envs />
     </configuration>
-    <configuration name="Lab500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab533" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.bijo.learning.stringclass.*" />
+          <option name="PATTERN" value="com.bijo.learning.systemclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.stringclass.Lab500" />
+      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.systemclass.Lab533" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -252,14 +262,14 @@
       <module name="JLC" />
       <envs />
     </configuration>
-    <configuration name="Lab501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab534" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.bijo.learning.stringclass.*" />
+          <option name="PATTERN" value="com.bijo.learning.systemclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.stringclass.Lab501" />
+      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.systemclass.Lab534" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -271,14 +281,14 @@
       <module name="JLC" />
       <envs />
     </configuration>
-    <configuration name="Lab502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab535" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.bijo.learning.stringclass.*" />
+          <option name="PATTERN" value="com.bijo.learning.systemclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.stringclass.Lab502" />
+      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.systemclass.Lab535" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -290,14 +300,14 @@
       <module name="JLC" />
       <envs />
     </configuration>
-    <configuration name="Lab503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab536" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.bijo.learning.stringclass.*" />
+          <option name="PATTERN" value="com.bijo.learning.systemclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.stringclass.Lab503" />
+      <option name="MAIN_CLASS_NAME" value="com.bijo.learning.systemclass.Lab536" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -325,19 +335,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Lab499" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Lab500" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Lab501" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Lab502" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Lab503" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Lab532" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Lab533" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Lab534" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Lab535" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Lab536" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Lab503" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Lab502" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Lab501" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Lab500" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Lab499" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Lab536" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Lab535" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Lab534" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Lab533" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Lab532" />
       </list>
     </recent_temporary>
   </component>
@@ -361,12 +371,15 @@
       <workItem from="1531829466245" duration="30026000" />
       <workItem from="1532319347606" duration="20893000" />
       <workItem from="1533527692430" duration="610000" />
-      <workItem from="1533537664295" duration="24074000" />
+      <workItem from="1533537664295" duration="25564000" />
+      <workItem from="1533899141509" duration="17842000" />
+      <workItem from="1534831290425" duration="596000" />
+      <workItem from="1536559205272" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170082000" />
+    <option name="totallyTimeSpent" value="190247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,22 +392,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27106228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2802198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -406,6 +417,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -464,361 +476,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/garbageclollection/Lab456.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab457.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab458.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab459.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test6n9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab460.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab461.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab462.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab463.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab464.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab465.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab466.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab467.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab468.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="54" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab469.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab470.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab471n472.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab473.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#426#427#0" expanded="false" />
-            <element signature="e#460#461#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab474.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab475.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab476.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab477.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab478.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab479.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab480.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab481.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab482.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab483.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab484.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab485.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab491.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab492.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab493.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab494.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab489.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab488.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab487.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab486.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab490.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab495.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab496.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="9" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="48" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,6 +529,307 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test14n15n16n17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/test/Test38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab504.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab505.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab506.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/stringclass/Lab507.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/tostring/Lab446.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/tostring/Lab447.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/tostring/Lab448.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab508.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab509.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab510.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab511.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab512.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/wrapperclass/Lab513.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab514.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="86" column="11" lean-forward="false" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab515.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="769" column="12" lean-forward="false" selection-start-line="769" selection-start-column="7" selection-end-line="769" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab516.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="114" column="5" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab517.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab518.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab519.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab520.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab521.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab522.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab523.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab524.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab525.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab526.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/autoboxing/Lab527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab528.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab529.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab530.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab531.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab532.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab533.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab534.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab535.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bijo/learning/systemclass/Lab536.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
